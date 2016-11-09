@@ -5,7 +5,7 @@
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "snappyshot-atom:toggle"
+    "atom-workspace": "snappyshot:toggle"
   },
   "repository": "https://github.com/atom/snappyshot-atom",
   "license": "MIT",

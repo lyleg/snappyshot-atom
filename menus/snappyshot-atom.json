@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle snappyshot-atom",
-        "command": "snappyshot-atom:toggle"
+        "label": "Toggle snappyshot",
+        "command": "snappyshot:toggle"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "snappyshot-atom",
+          "label": "snappyshot",
           "submenu": [
             {
               "label": "Toggle",
-              "command": "snappyshot-atom:toggle"
+              "command": "snappyshot:toggle"
             }
           ]
         }

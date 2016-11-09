@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "snappyshot-atom:toggle"
+    "ctrl-alt-o": "snappyshot:toggle"
   }
 }
